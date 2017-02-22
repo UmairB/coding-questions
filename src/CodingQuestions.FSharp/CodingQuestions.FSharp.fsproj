@@ -55,6 +55,7 @@
     <None Include="TwoSum.fsx" />
     <None Include="TwoSumII.fsx" />
     <None Include="RotateArray.fsx" />
+    <None Include="Staircase.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
