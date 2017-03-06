@@ -6,3 +6,5 @@ obj/
 [Tt]est[Rr]esult*
 [Bb]uild[Ll]og.*
 packages/
+.DS_STORE
+**/project.lock.json
